@@ -1,4 +1,4 @@
-# Hi there, I'm Twix - aka [UnsharedTwix]
+# Hi there, I'm Akary - aka [TheOne]
 
 <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif" />
 
