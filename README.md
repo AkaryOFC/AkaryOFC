@@ -1,5 +1,9 @@
 # Hi there, I'm AK [TheOne]
 
+<div>
+  <a href="https://discord.com/users/379954079553552386"><img align="right" width="350" src="https://lanyard.kyrie25.me/api/379954079553552386?bannerFilter=brightness(0.8)%20blur(2px)&decoration=true&useDisplayName=true"></a>
+</div>
+
 ---
 - 📚 My Stuff is:
 ---
