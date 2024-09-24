@@ -8,7 +8,7 @@
   <i class="fas fa-code"></i> Bienvenue dans mon univers AkOFFICE
 </h1>
 
-<div style="width:100%;">
+<div class="banner">
   <img src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" width="700" alt="Banner" />
 </div>
 
