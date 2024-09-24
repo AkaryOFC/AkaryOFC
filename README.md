@@ -5,10 +5,10 @@
 </div>
 
 <h1 align="center" style="color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <i class="fas fa-code"></i> Bienvenue dans mon univers | AkOFFICE
+  <i class="fas fa-code"></i> Bienvenue dans mon univers AkOFFICE
 </h1>
 
-<div align="center">
+<div>
   <img src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" width="700" alt="Banner" />
 </div>
 
