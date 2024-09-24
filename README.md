@@ -56,6 +56,11 @@
 
 <hr style="border: 1px solid #444;" />
 
+<a href="https://github.com/AkaryOFC"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AkaryOFC&theme=radical&title_color=ff3068?"></a>
+<a href="https://github.com/AkaryOFC"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=AkaryOFC&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+
+<hr style="border: 1px solid #444;" />
+
 <h2 align="left" style="color: #e0e0e0;">Toujours en évolution :</h2>
 <p align="left" style="color: #d0d0d0;">
   Le monde du développement ne s'arrête jamais, et moi non plus. Je suis en perpétuelle quête d'apprentissage, explorant les nouvelles technologies émergentes pour rester à la pointe de l'innovation.
