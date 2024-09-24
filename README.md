@@ -56,14 +56,6 @@
 
 <hr style="border: 1px solid #444;" />
 
-<h2 align="left" style="color: #e0e0e0;">Statistiques GitHub :</h2>
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AkaryOFC&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaryOFC&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
-
-<hr style="border: 1px solid #444;" />
-
 <h2 align="left" style="color: #e0e0e0;">Toujours en évolution :</h2>
 <p align="left" style="color: #d0d0d0;">
   Le monde du développement ne s'arrête jamais, et moi non plus. Je suis en perpétuelle quête d'apprentissage, explorant les nouvelles technologies émergentes pour rester à la pointe de l'innovation.
