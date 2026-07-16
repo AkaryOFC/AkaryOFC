@@ -7,7 +7,7 @@
 
 <h2 align="left" style="color: #690009;">Qui suis-je ?</h2>
 <p align="left" style="color: #030203;">
-  Je m'appelle <strong>ART-OFFLINE</strong>, CEO de <strong>AK-OFFICE</strong> et développeur fullstack de 22 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
+  Je m'appelle <strong>ART-OFFLINE</strong>, CEO de <strong>AK-OFFICE</strong> et développeur fullstack de 23 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
 </p>
 
 <ul align="left" style="color: #030203;">
