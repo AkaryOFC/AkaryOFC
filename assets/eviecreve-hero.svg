@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-label="EVIECRÈVE — full-stack product engineer and creative systems">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#070811"/><stop offset=".48" stop-color="#180b25"/><stop offset="1" stop-color="#060714"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#ff3dd1"/><stop offset=".48" stop-color="#ff70bc"/><stop offset="1" stop-color="#4d74ff"/></linearGradient>
+    <linearGradient id="hair" x1="0" x2="1"><stop stop-color="#070812"/><stop offset=".55" stop-color="#111327"/><stop offset="1" stop-color="#273882"/></linearGradient>
+    <linearGradient id="skin" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffe3e0"/><stop offset="1" stop-color="#bf738d"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#ff3dd1" stop-opacity=".34"/><stop offset="1" stop-color="#ff3dd1" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#8b5cf6" stroke-opacity=".11"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="10"/></filter>
+    <filter id="neonGlow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="portraitClip"><path d="M972 0H1600V620H900c68-81 105-176 104-280-1-117-38-231-32-340z"/></clipPath>
+  </defs>
+  <rect width="1600" height="620" fill="url(#bg)"/>
+  <rect width="1600" height="620" fill="url(#grid)"/>
+  <circle cx="260" cy="110" r="310" fill="url(#glow)"/>
+  <circle cx="990" cy="590" r="330" fill="#8b5cf6" opacity=".11" filter="url(#soft)"/>
+  <g opacity=".34" fill="#ff3dd1">
+    <path d="M36 91h310l28 5H64z"/><path d="M36 127h364l-27 6H58z"/>
+    <path d="M36 256h360l-24 6H58z"/><path d="M36 461h312l29 6H65z"/>
+  </g>
+  <g clip-path="url(#portraitClip)">
+    <rect x="900" width="700" height="620" fill="#0a0815"/>
+    <circle cx="1285" cy="270" r="340" fill="#4d2c7c" opacity=".35"/>
+    <circle cx="1375" cy="170" r="240" fill="#ff3dd1" opacity=".12" filter="url(#soft)"/>
+    <path d="M1120 570c-7-143 0-285 42-404 40-113 135-165 232-135 92 28 140 124 136 253-3 108-7 215 31 336z" fill="url(#hair)"/>
+    <path d="M1194 154c49-71 154-80 224-18 67 60 70 192 19 282-44 78-131 101-204 43-75-60-90-228-39-307z" fill="url(#skin)"/>
+    <path d="M1172 188c26-126 177-173 279-81 39 35 64 84 69 137-41-48-86-85-137-105-59-23-127-7-211 49z" fill="#080914"/>
+    <path d="M1185 201c67-67 166-94 269-21-49-3-85 13-117 40-44-26-91-31-152-19z" fill="#101226"/>
+    <path d="M1168 153c76 24 89 121 64 245-17 84-24 141-6 205" fill="none" stroke="#486dff" stroke-width="19" opacity=".74"/>
+    <path d="M1453 127c-17 119-13 238 41 419" fill="none" stroke="#885bff" stroke-width="15" opacity=".64"/>
+    <path d="M1208 111c42 31 52 72 42 135" fill="none" stroke="#ff3dd1" stroke-width="7" opacity=".45"/>
+    <path d="M1218 295c38-34 84-33 123 1-43-18-83-17-123-1z" fill="#171021"/>
+    <path d="M1360 292c34-30 76-29 108 2-37-16-73-16-108-2z" fill="#171021"/>
+    <ellipse cx="1288" cy="300" rx="17" ry="13" fill="#7e6f68"/><ellipse cx="1413" cy="297" rx="16" ry="12" fill="#7e6f68"/>
+    <circle cx="1291" cy="300" r="6" fill="#09070d"/><circle cx="1410" cy="297" r="6" fill="#09070d"/>
+    <circle cx="1296" cy="295" r="2.5" fill="#fff"/><circle cx="1415" cy="292" r="2.5" fill="#fff"/>
+    <path d="M1341 304c-8 36-12 57 4 68" fill="none" stroke="#a65d78" stroke-width="5" stroke-linecap="round"/>
+    <path d="M1307 398c36 18 76 15 108-8-27 42-78 49-108 8z" fill="#9f456e"/>
+    <path d="M1323 404c22 7 47 6 70-4" fill="none" stroke="#ffb0c6" stroke-width="4" opacity=".8"/>
+    <circle cx="1342" cy="377" r="5" fill="none" stroke="#d7d8e4" stroke-width="2"/>
+    <g fill="none" stroke="#40254f" stroke-width="3" opacity=".82">
+      <path d="M1206 345l9 6 10-6-3 11 8 7-12 1-5 10-4-10-12-1 9-7z"/>
+      <path d="M1229 369l6 6m-6 0 6-6"/>
+      <path d="M1457 350l8 8m-8 0 8-8"/>
+    </g>
+    <path d="M1488 570c-37-22-64-62-62-106 1-28 12-45 27-42 16 3 18 24 17 50 0 8 2 10 6 2l18-146c3-20 27-18 26 3l-7 118 12-166c2-22 28-21 28 2l-3 162 15-111c4-21 29-18 27 4l-15 128c-5 53-28 102-70 132z" fill="url(#skin)"/>
+    <g fill="none" stroke="#17121f" stroke-width="10" opacity=".92"><path d="M1482 470l-2 49"/><path d="M1512 444l-2 77"/><path d="M1542 441l-4 76"/></g>
+    <g fill="#0c0b12"><ellipse cx="1509" cy="306" rx="10" ry="6" transform="rotate(-84 1509 306)"/><ellipse cx="1545" cy="260" rx="10" ry="6" transform="rotate(-86 1545 260)"/><ellipse cx="1580" cy="319" rx="10" ry="6" transform="rotate(-80 1580 319)"/></g>
+    <path d="M1238 480c69 43 142 48 214 3" fill="none" stroke="#15131d" stroke-width="23"/>
+    <path d="M1240 480c69 43 142 48 212 3" fill="none" stroke="#c7cadb" stroke-width="3" stroke-dasharray="8 10"/>
+    <circle cx="1348" cy="516" r="14" fill="none" stroke="#ff3dd1" stroke-width="4" filter="url(#neonGlow)"/>
+    <path d="M1348 530v30" stroke="#c7cadb" stroke-width="4"/>
+  </g>
+  <rect x="1452" width="148" height="620" fill="#03040b" opacity=".78"/>
+  <text x="1526" y="268" text-anchor="middle" fill="#fff" font-family="monospace" font-size="24">2026</text>
+  <path d="M1526 76l13 17 21-5-7 20 15 15-21 3-10 20-12-19-22 2 14-17-8-20 20 8z" fill="none" stroke="#ff3dd1" stroke-width="4" filter="url(#neonGlow)"/>
+  <path d="M1503 372c0-30 43-35 51-9 8-26 51-21 51 9 0 36-51 63-51 63s-51-27-51-63z" fill="none" stroke="#ff70bc" stroke-width="4" filter="url(#neonGlow)"/>
+  <path d="M1539 365l16 15 14-15" fill="none" stroke="#ff70bc" stroke-width="4"/>
+  <text x="76" y="78" fill="#aab2cf" font-family="monospace" font-size="22" letter-spacing="2">PROFILE://ART-OFFLINE  •  LYON.FR  •  ELLE/SHE</text>
+  <rect x="76" y="93" width="474" height="4" fill="#ff3dd1"/>
+  <g font-family="Arial,sans-serif" font-weight="900" font-size="108">
+    <text x="68" y="215" fill="#4d74ff" opacity=".85">EVIECRÈVE</text>
+    <text x="84" y="215" fill="#ff3dd1" opacity=".82">EVIECRÈVE</text>
+    <text x="76" y="215" fill="#fff8ff">EVIECRÈVE</text>
+  </g>
+  <text x="76" y="267" fill="#ff70bc" font-family="Arial,sans-serif" font-size="31" font-weight="700">FULL-STACK PRODUCT ENGINEER × CREATIVE SYSTEMS</text>
+  <text x="76" y="319" fill="#f2f3ff" font-family="Arial,sans-serif" font-size="24">Je transforme le chaos réel en produits, protocoles et interfaces.</text>
+  <text x="76" y="355" fill="#f2f3ff" font-family="Arial,sans-serif" font-size="24">Du backend .NET aux mondes VR — avec une âme, jamais en beige.</text>
+  <g font-family="monospace" font-size="18" fill="#fff">
+    <rect x="76" y="392" width="150" height="44" rx="16" fill="#0d1222" stroke="#ff3dd1" stroke-width="2"/><text x="151" y="420" text-anchor="middle">.NET / C#</text>
+    <rect x="240" y="392" width="144" height="44" rx="16" fill="#0d1222" stroke="#ff3dd1" stroke-width="2"/><text x="312" y="420" text-anchor="middle">POSTGRES</text>
+    <rect x="398" y="392" width="136" height="44" rx="16" fill="#0d1222" stroke="#ff3dd1" stroke-width="2"/><text x="466" y="420" text-anchor="middle">REALTIME</text>
+    <rect x="548" y="392" width="148" height="44" rx="16" fill="#0d1222" stroke="#ff3dd1" stroke-width="2"/><text x="622" y="420" text-anchor="middle">UNITY / VR</text>
+  </g>
+  <rect x="76" y="500" width="732" height="60" rx="16" fill="#090c18" stroke="#8b5cf6" stroke-width="2"/>
+  <circle cx="106" cy="530" r="8" fill="#ff3dd1" filter="url(#neonGlow)"/>
+  <text x="126" y="535" fill="#9da7c4" font-family="monospace" font-size="15">CURRENT ERA</text>
+  <text x="270" y="535" fill="#fff" font-family="monospace" font-size="18">ETIKID  /  IoHTTPS  /  EVIECRÈVE</text>
+  <text x="76" y="594" fill="#929ab7" font-family="monospace" font-size="15" letter-spacing="1">CODE WITH TEETH. DESIGN WITH FEELINGS.</text>
+</svg>
