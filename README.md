@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/eviecreve-hero.svg" width="100%" alt="EVIECRÈVE — full-stack product engineer, creative systems and dark hyperpop" />
+  <img src="./assets/eviecreve-hero.svg" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
 </div>
 
 <br />
@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=FF70BC&center=true&vCenter=true&width=900&lines=Je+construis+des+syst%C3%A8mes+qui+existent+dans+le+vrai+monde.;.NET+%C3%97+produit+%C3%97+temps+r%C3%A9el+%C3%97+VR.;Le+code+peut+%C3%AAtre+propre+sans+%C3%AAtre+sans+%C3%A2me.;No+beige+software.+No+empty+branding." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=FF70BC&center=true&vCenter=true&width=900&lines=Je+construis+des+syst%C3%A8mes+qui+existent+dans+le+vrai+monde.;.NET+%C3%97+produit+%C3%97+temps+r%C3%A9el+%C3%97+VR.;Un+backend+doit+survivre+au+terrain%2C+pas+juste+%C3%A0+la+d%C3%A9mo.;No+clean+lies.+No+empty+architecture." alt="Typing introduction" />
 </div>
 
 <br />
@@ -34,17 +34,17 @@
         expérience, exploitation, déploiement et identité visuelle.
       </p>
       <p>
-        Je suis aussi <strong>EVIECRÈVE</strong> — un projet musical et visuel dark French hyperpop. Pour moi,
-        une interface, un protocole, une cover et une chanson viennent du même endroit : une obsession pour
-        les détails, les émotions fortes et les objets qui ont une vraie présence.
+        <strong>EVIECRÈVE</strong> est aussi mon identité créative : elle influence la façon dont je dessine mes interfaces,
+        structure mes produits et refuse les logiciels anonymes. La vibe reste présente, mais ici le sujet central est clair :
+        <strong>construire des systèmes sérieux avec une personnalité impossible à diluer.</strong>
       </p>
       <blockquote>
         <strong>Je ne veux pas seulement que ça fonctionne.</strong><br />
-        Je veux que ce soit clair, robuste, mémorable — et impossible à confondre avec le travail de quelqu’un d’autre.
+        Je veux que ce soit clair, robuste, mémorable — et réparable quand la réalité décide de tout casser.
       </blockquote>
     </td>
     <td width="43%" valign="top">
-      <img src="./assets/now-playing.svg" width="100%" alt="EVIECRÈVE now playing" />
+      <img src="./assets/now-playing.svg" width="100%" alt="EVIECRÈVE engineering status" />
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@
 var evie = new Person(
     pronouns: "elle / she",
     location: "Lyon, France",
-    roles: ["Product Engineer", ".NET Developer", "Founder", "Artist"],
+    roles: ["Product Engineer", ".NET Developer", "Founder", "Systems Builder"],
     currentMode: "building things that survive contact with reality"
 );
 ```
@@ -85,17 +85,17 @@ var evie = new Person(
       <sub><strong>Obsessions :</strong> résilience, observabilité, récupération automatique.</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💿 EVIECRÈVE — musique, image et univers</h3>
-      <p>Direction artistique complète : écriture française, production assistée, identité visuelle, covers, storytelling et systèmes graphiques cohérents autour d’un personnage alt / cyber emo.</p>
-      <p><code>Dark Hyperpop</code> <code>Alt Rock</code> <code>Visual Direction</code> <code>Worldbuilding</code></p>
-      <sub><strong>Principe :</strong> la technique sert une émotion, jamais l’inverse.</sub>
+      <h3>⚙️ Infrastructure produit &amp; opérations</h3>
+      <p>Déploiements Linux, conteneurs, reverse proxy, bases de données, supervision et chaînes d’exploitation conçues pour rester compréhensibles même lorsqu’un incident arrive à une heure indécente.</p>
+      <p><code>Docker</code> <code>Ubuntu Server</code> <code>Caddy</code> <code>PostgreSQL</code> <code>Health checks</code></p>
+      <sub><strong>Principe :</strong> aucun composant magique que personne ne sait réparer.</sub>
     </td>
   </tr>
 </table>
 
 <br />
 
-## ✦ STACK // TOOLS WITH TEETH
+## ✦ STACK // WORKING MATERIAL
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,linux,python,unity,git,github,githubactions,html,css,js&theme=dark&perline=7" alt="Technology stack" />
@@ -145,7 +145,7 @@ var evie = new Person(
   <tr>
     <td width="25%" align="center"><strong>01 — REAL</strong><br /><sub>Construire pour des personnes, des contraintes et des incidents réels.</sub></td>
     <td width="25%" align="center"><strong>02 — LEGIBLE</strong><br /><sub>Une architecture doit pouvoir être expliquée, exploitée et réparée.</sub></td>
-    <td width="25%" align="center"><strong>03 — ALIVE</strong><br /><sub>Une identité forte n’est pas une décoration posée à la fin.</sub></td>
+    <td width="25%" align="center"><strong>03 — DISTINCT</strong><br /><sub>Une identité forte fait partie du produit, pas du vernis marketing.</sub></td>
     <td width="25%" align="center"><strong>04 — SHIPPED</strong><br /><sub>La perfection qui ne sort jamais ne protège personne et n’aide personne.</sub></td>
   </tr>
 </table>
@@ -155,7 +155,7 @@ EVIE.OS // CURRENT FOCUS
 ├── ETIKID ............... partner-ready delivery infrastructure
 ├── IoHTTPS .............. verifiable intent over existing web standards
 ├── realtime agents ...... resilient orchestration for VR / Windows
-└── EVIECRÈVE ............ music, visuals, character & emotional damage
+└── operations ........... infrastructure that stays understandable
 ```
 
 <div align="center">
@@ -166,5 +166,5 @@ EVIE.OS // CURRENT FOCUS
 <br />
 
 <div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Stay strange. Ship real things." />
+  <img src="./assets/footer.svg" width="100%" alt="Build it. Break it. Fix it properly." />
 </div>
