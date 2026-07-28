@@ -1,80 +1,170 @@
-<div align="center">
-</div>
-
-<h1 align="center" style="color: #690009; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <i class="fas fa-code"></i> ART-OFFLINE
-</h1>
-
-<h2 align="left" style="color: #690009;">Qui suis-je ?</h2>
-<p align="left" style="color: #030203;">
-  Je m'appelle <strong>ART-OFFLINE</strong>, CEO de <strong>AK-OFFICE</strong> et développeur fullstack de 23 ans, passionné par les nouvelles technologies et la création de solutions numériques innovantes. Depuis que j'ai découvert le code, j'ai cherché à repousser les limites du possible, alliant design épuré et technologies avancées pour donner vie à des projets ambitieux.
-</p>
-
-<ul align="left" style="color: #030203;">
-  <li><i class="fas fa-briefcase"></i> <strong>Fondateur et CEO</strong> de <strong>AkOFFICE</strong> (aussi connu sous AkOFC), une entreprise technologique qui conçoit des solutions personnalisées.</li>
-  <li><i class="fas fa-code"></i> <strong>Fullstack Developer</strong> maîtrisant : ASP.NET, PHP, HTML, CSS, JavaScript. (et bien d'autes)</li>
-  <li><i class="fas fa-paint-brush"></i> Enthousiaste du design moderne, intégrant une esthétique minimaliste et futuriste dans mes projets.</li>
-</ul>
-
-<hr style="border: 1px solid #444;" />
-
-<h2 align="left" style="color: #690009;">Ce que je fais :</h2>
-<ul align="left" style="color: #030203;">
-  <li><i class="fas fa-laptop-code"></i> Transformation digitale avec des applications web robustes et modernes.</li>
-  <li><i class="fas fa-cogs"></i> Solutions sur mesure pour clients et entreprises, du design à l'intégration.</li>
-  <li><i class="fas fa-server"></i> Maintenance et gestion de systèmes complexes pour garantir des performances optimales.</li>
-  <li><i class="fas fa-rocket"></i> Innovation constante dans l'univers du développement fullstack.</li>
-</ul>
-
-<hr style="border: 1px solid #444;" />
-
-<h2 align="left" style="color: #690009;">Technologies que j'aime utiliser :</h2>
-<p align="left" style="color: #030203;">
-  <a href="https://dotnet.microsoft.com/apps/aspnet">
-    <img src="https://img.shields.io/badge/ASP.NET-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS-%2301709A.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  </a>
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-</p>
-
-<hr style="border: 1px solid #444;" />
+<!--
+  EVIECRÈVE / art-offline
+  Built like a product page, not a résumé template.
+-->
 
 <div align="center">
-  <a href="https://github.com/AkaryOFC"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=art-offline&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/AkaryOFC"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=art-offline&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <img src="./assets/eviecreve-hero.svg" width="100%" alt="EVIECRÈVE — full-stack product engineer, creative systems and dark hyperpop" />
 </div>
 
-<hr style="border: 1px solid #444;" />
+<br />
 
-<h2 align="left" style="color: #690009;">Toujours en évolution :</h2>
-<p align="left" style="color: #030203;">
-  Le monde du développement ne s'arrête jamais, et moi non plus. Je suis en perpétuelle quête d'apprentissage, explorant les nouvelles technologies émergentes pour rester à la pointe de l'innovation.
-</p>
-<ul align="left" style="color: #030203;">
-  <li><i class="fas fa-puzzle-piece"></i> Projets Open Source : Collaborer et partager mes compétences avec la communauté.</li>
-  <li><i class="fas fa-robot"></i> Passionné par l'IA, la Blockchain, et les nouvelles interfaces homme-machine.</li>
-  <li><i class="fas fa-globe"></i> Objectif : Contribuer à créer un monde où la technologie simplifie la vie de chacun.</li>
-</ul>
+<div align="center">
+  <a href="https://github.com/art-offline?tab=repositories"><img src="https://img.shields.io/badge/OPEN_THE_LAB-REPOSITORIES-ff3dd1?style=for-the-badge&labelColor=0d1117" alt="Repositories" /></a>
+  <a href="https://github.com/art-offline/IoHTTPS"><img src="https://img.shields.io/badge/R%26D-IoHTTPS-8b5cf6?style=for-the-badge&labelColor=0d1117" alt="IoHTTPS" /></a>
+  <img src="https://komarev.com/ghpvc/?username=art-offline&label=PROFILE%20SIGNAL&color=ff3dd1&style=for-the-badge" alt="Profile views" />
+</div>
 
-<hr style="border: 1px solid #444;" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=FF70BC&center=true&vCenter=true&width=900&lines=Je+construis+des+syst%C3%A8mes+qui+existent+dans+le+vrai+monde.;.NET+%C3%97+produit+%C3%97+temps+r%C3%A9el+%C3%97+VR.;Le+code+peut+%C3%AAtre+propre+sans+%C3%AAtre+sans+%C3%A2me.;No+beige+software.+No+empty+branding." alt="Typing introduction" />
+</div>
 
-<h2 align="left" style="color: #690009;">Restons en contact !</h2>
-<p align="left" style="color: #030203;">
-  Je suis toujours ouvert à de nouvelles opportunités, collaborations, ou simplement à échanger autour de la tech.
-</p>
-<ul align="left" style="color: #030203;">
-  <li><i class="fas fa-globe"></i> Site Web : <a href="https://akofc.dev" style="color: #6bb3f0;">AkOFC.dev</a></li>
-  <li><i class="fas fa-envelope"></i> Email : <a href="mailto:pro@akofc.dev" style="color: #6bb3f0;">pro@akofc.dev</a></li>
-</ul>
+<br />
 
-<hr style="border: 1px solid #444;" />
+## ✦ IDENTITY // WHO IS EVIE?
+
+<table>
+  <tr>
+    <td width="57%" valign="top">
+      <h3>Salut, moi c’est Evie.</h3>
+      <p>
+        Développeuse full-stack et product engineer basée à Lyon, je conçois des produits qui relient
+        <strong>logiciel, terrain, sécurité, identité et temps réel</strong>. Mon centre de gravité est l’écosystème
+        <strong>.NET / C#</strong>, mais je travaille toujours à l’échelle du système entier : architecture,
+        expérience, exploitation, déploiement et identité visuelle.
+      </p>
+      <p>
+        Je suis aussi <strong>EVIECRÈVE</strong> — un projet musical et visuel dark French hyperpop. Pour moi,
+        une interface, un protocole, une cover et une chanson viennent du même endroit : une obsession pour
+        les détails, les émotions fortes et les objets qui ont une vraie présence.
+      </p>
+      <blockquote>
+        <strong>Je ne veux pas seulement que ça fonctionne.</strong><br />
+        Je veux que ce soit clair, robuste, mémorable — et impossible à confondre avec le travail de quelqu’un d’autre.
+      </blockquote>
+    </td>
+    <td width="43%" valign="top">
+      <img src="./assets/now-playing.svg" width="100%" alt="EVIECRÈVE now playing" />
+    </td>
+  </tr>
+</table>
+
+```csharp
+var evie = new Person(
+    pronouns: "elle / she",
+    location: "Lyon, France",
+    roles: ["Product Engineer", ".NET Developer", "Founder", "Artist"],
+    currentMode: "building things that survive contact with reality"
+);
+```
+
+<br />
+
+## ✦ BUILDING // CURRENT SYSTEMS
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📮 ETIKID — infrastructure de boîte aux lettres connectée</h3>
+      <p>Produit terrain + plateforme métier : activation résident, identité, plaques connectées, backoffice, données d’occupation et outils partenaires pour les acteurs de la livraison.</p>
+      <p><code>ASP.NET</code> <code>Blazor</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code> <code>WSS / API</code></p>
+      <sub><strong>Rôle :</strong> fondatrice, produit, architecture et développement.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/art-offline/IoHTTPS">Intent over HTTPS</a></h3>
+      <p>Une couche applicative expérimentale pour déclarer et signer cryptographiquement l’intention d’une action sensible au-dessus de HTTPS — sans remplacer TLS.</p>
+      <p><code>C#</code> <code>ASP.NET Core</code> <code>Ed25519</code> <code>Protocol design</code> <code>Security R&amp;D</code></p>
+      <sub><strong>Statut :</strong> recherche ouverte et implémentation de référence.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ Agents temps réel &amp; systèmes VRChat</h3>
+      <p>Orchestration d’agents Windows, communication WSS, watchdogs, commandes distantes, intégrations OSC et outils Unity destinés aux environnements sociaux en temps réel.</p>
+      <p><code>.NET</code> <code>WebSockets</code> <code>OSC</code> <code>Unity 6</code> <code>VRChat SDK</code></p>
+      <sub><strong>Obsessions :</strong> résilience, observabilité, récupération automatique.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💿 EVIECRÈVE — musique, image et univers</h3>
+      <p>Direction artistique complète : écriture française, production assistée, identité visuelle, covers, storytelling et systèmes graphiques cohérents autour d’un personnage alt / cyber emo.</p>
+      <p><code>Dark Hyperpop</code> <code>Alt Rock</code> <code>Visual Direction</code> <code>Worldbuilding</code></p>
+      <sub><strong>Principe :</strong> la technique sert une émotion, jamais l’inverse.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## ✦ STACK // TOOLS WITH TEETH
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,linux,python,unity,git,github,githubactions,html,css,js&theme=dark&perline=7" alt="Technology stack" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI-Blazor-702AF7?style=flat-square&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Host-Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime-WebSockets-ff3dd1?style=flat-square" />
+  <img src="https://img.shields.io/badge/VR-Unity_%2B_OSC-8b5cf6?style=flat-square&logo=unity&logoColor=white" />
+</div>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><h4>ARCHITECTURE</h4><p>Monolithes modulaires, APIs métier, WSS, protocoles, workers, intégrations partenaires et sécurité pragmatique.</p></td>
+    <td width="33%" valign="top"><h4>PRODUCT</h4><p>Flux réels, backoffices, onboarding, interfaces responsive, automatisation et décisions guidées par le terrain.</p></td>
+    <td width="33%" valign="top"><h4>OPERATIONS</h4><p>Docker, Linux, reverse proxy, health checks, logs, reprise sur erreur et déploiements que je peux comprendre à 3 h du matin.</p></td>
+  </tr>
+</table>
+
+<br />
+
+## ✦ SIGNAL // PUBLIC ACTIVITY
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=art-offline&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff70bc&icon_color=8b5cf6&text_color=e6edf3&ring_color=ff3dd1&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=art-offline&hide_border=true&background=0D1117&ring=FF3DD1&fire=8B5CF6&currStreakLabel=FF70BC&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=art-offline&theme=radical" alt="Contribution graph" />
+</div>
+
+> Une partie importante de mon travail vit dans des dépôts privés : produit, infrastructure, systèmes partenaires et R&amp;D en cours. Les carrés publics ne racontent donc qu’une partie de l’histoire.
+
+<br />
+
+## ✦ MANIFESTO // HOW I BUILD
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>01 — REAL</strong><br /><sub>Construire pour des personnes, des contraintes et des incidents réels.</sub></td>
+    <td width="25%" align="center"><strong>02 — LEGIBLE</strong><br /><sub>Une architecture doit pouvoir être expliquée, exploitée et réparée.</sub></td>
+    <td width="25%" align="center"><strong>03 — ALIVE</strong><br /><sub>Une identité forte n’est pas une décoration posée à la fin.</sub></td>
+    <td width="25%" align="center"><strong>04 — SHIPPED</strong><br /><sub>La perfection qui ne sort jamais ne protège personne et n’aide personne.</sub></td>
+  </tr>
+</table>
+
+```text
+EVIE.OS // CURRENT FOCUS
+├── ETIKID ............... partner-ready delivery infrastructure
+├── IoHTTPS .............. verifiable intent over existing web standards
+├── realtime agents ...... resilient orchestration for VR / Windows
+└── EVIECRÈVE ............ music, visuals, character & emotional damage
+```
+
+<div align="center">
+  <h3>Je suis ouverte aux collaborations sérieuses autour de produits .NET, d’architecture applicative, de protocoles et d’expériences interactives.</h3>
+  <a href="https://github.com/art-offline"><img src="https://img.shields.io/badge/GITHUB-art--offline-ff3dd1?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Stay strange. Ship real things." />
+</div>
