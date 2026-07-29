@@ -1,7 +1,7 @@
 <!-- EVIECRÈVE / art-offline — graphic engineering profile -->
 
 <div align="center">
-  <img src="./assets/hero-v7.svg" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
+  <img src="./assets/eviecreve-hero.svg?v=8" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
 </div>
 
 <br />
