@@ -1,16 +1,14 @@
 <!-- EVIECRÈVE / art-offline — graphic engineering profile -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/art-offline/art-offline/main/assets/eviecreve-hero.svg?v=6" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
+  <img src="./assets/hero-v7.svg" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
 </div>
 
 <br />
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top"><img src="./assets/identity-v4.svg" width="100%" alt="Who is Evie" /></td>
-<td width="40%" valign="top"><img src="./assets/status-v4.svg" width="100%" alt="Current system status" /></td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/profile-v7.svg" width="100%" alt="Identity and current system status" />
+</div>
 
 <br />
 
@@ -22,12 +20,9 @@
 
 <br />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><img src="./assets/project-etikid-v4.svg" width="100%" alt="ETIKID project" /></td>
-<td width="50%" valign="top"><img src="./assets/project-iohttps-v4.svg" width="100%" alt="IoHTTPS project" /></td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/projects-v7.svg" width="100%" alt="ETIKID and Intent over HTTPS projects" />
+</div>
 
 <br />
 
