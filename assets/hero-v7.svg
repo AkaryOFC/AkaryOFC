@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-label="EVIECRÈVE full-stack product engineer and systems architect">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070711"/><stop offset=".5" stop-color="#240b35"/><stop offset="1" stop-color="#07101c"/></linearGradient>
+  <linearGradient id="hot" x1="0" x2="1"><stop stop-color="#ff2dbd"/><stop offset=".52" stop-color="#8b5cff"/><stop offset="1" stop-color="#2ec8ff"/></linearGradient>
+  <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11101a"/><stop offset=".48" stop-color="#211630"/><stop offset="1" stop-color="#080a11"/></linearGradient>
+  <linearGradient id="bluehair" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7258ff"/><stop offset=".5" stop-color="#2e84ff"/><stop offset="1" stop-color="#2ee6ff"/></linearGradient>
+  <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0f5"/><stop offset=".58" stop-color="#e9cbd7"/><stop offset="1" stop-color="#cfa9bb"/></linearGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#5e3f80" stroke-opacity=".22"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="right"><path d="M995 0H1600V620H900C966 522 997 404 1006 276C1013 174 1006 86 995 0Z"/></clipPath>
+</defs>
+<rect width="1600" height="620" rx="26" fill="url(#bg)"/><rect width="1600" height="620" rx="26" fill="url(#grid)"/><rect x="3" y="3" width="1594" height="614" rx="23" fill="none" stroke="#7856ff" stroke-width="3"/>
+<g opacity=".8"><path d="M40 91H790" stroke="#ff2dbd" stroke-width="2"/><path d="M40 433H820" stroke="#7856ff" stroke-width="2"/><path d="M88 68h380" stroke="#ff2dbd" stroke-width="4"/></g>
+<circle cx="1320" cy="218" r="260" fill="#6e2dff" opacity=".17" filter="url(#soft)"/><circle cx="1422" cy="384" r="180" fill="#ff2dbd" opacity=".14" filter="url(#soft)"/>
+<g clip-path="url(#right)">
+  <rect x="900" width="700" height="620" fill="#0a0c15"/>
+  <path d="M1030 620C1048 515 1114 470 1236 459C1376 445 1494 489 1540 620Z" fill="#14131f"/>
+  <path d="M1210 435C1198 479 1193 510 1200 545C1240 575 1308 576 1354 540C1361 502 1355 469 1343 430Z" fill="url(#skin)" stroke="#5c314f" stroke-width="4"/>
+  <path d="M1138 152C1170 96 1244 72 1318 90C1391 107 1436 174 1437 252C1438 333 1400 414 1335 454C1290 482 1236 470 1196 435C1151 395 1125 327 1120 258C1116 219 1122 182 1138 152Z" fill="url(#skin)" stroke="#6f3f5f" stroke-width="5"/>
+  <path d="M1128 252C1089 245 1080 286 1098 324C1107 344 1123 349 1140 337" fill="url(#skin)" stroke="#6f3f5f" stroke-width="5"/>
+  <path d="M1430 244C1463 237 1478 270 1461 309C1452 329 1438 337 1421 328" fill="url(#skin)" stroke="#6f3f5f" stroke-width="5"/>
+  <path d="M1087 246C1060 137 1112 38 1228 20C1362 -2 1478 73 1494 207C1501 276 1476 361 1433 417L1402 360C1425 279 1406 169 1350 127C1290 81 1192 98 1147 157C1112 203 1113 283 1135 337L1100 373C1075 331 1068 282 1087 246Z" fill="url(#hair)" stroke="#07080d" stroke-width="8"/>
+  <path d="M1136 151C1173 86 1258 67 1325 92C1251 102 1204 155 1188 228C1175 286 1183 345 1163 400C1130 364 1106 310 1109 251C1110 211 1119 177 1136 151Z" fill="#11101a"/>
+  <path d="M1190 93C1247 65 1343 82 1387 135C1335 125 1280 142 1249 192C1211 255 1217 349 1180 421C1176 332 1157 235 1190 93Z" fill="url(#bluehair)" opacity=".9"/>
+  <path d="M1254 76C1327 63 1411 112 1438 187C1374 143 1312 142 1266 188C1226 228 1214 294 1208 361C1182 276 1188 151 1254 76Z" fill="#17111f" opacity=".92"/>
+  <path d="M1395 135C1456 192 1451 312 1413 405C1397 445 1375 482 1363 538C1407 512 1448 467 1472 411C1511 320 1507 216 1452 138Z" fill="#0d0d14"/>
+  <path d="M1396 165C1450 229 1434 340 1389 434" fill="none" stroke="url(#bluehair)" stroke-width="25" stroke-linecap="round" opacity=".9"/>
+  <path d="M1415 171C1467 241 1450 371 1397 476" fill="none" stroke="#15121f" stroke-width="34" stroke-linecap="round"/>
+  <path d="M1386 164C1432 220 1417 326 1384 393" fill="none" stroke="#2ec8ff" stroke-width="9" stroke-linecap="round"/>
+  <path d="M1187 278C1214 255 1252 253 1278 274C1251 300 1214 302 1187 278Z" fill="#fff" stroke="#4c2b49" stroke-width="3"/>
+  <ellipse cx="1232" cy="278" rx="17" ry="20" fill="#5a49ff"/><ellipse cx="1236" cy="275" rx="8" ry="11" fill="#11121e"/><circle cx="1242" cy="269" r="4" fill="#fff"/>
+  <path d="M1323 272C1346 255 1376 256 1397 276C1374 296 1344 296 1323 272Z" fill="#fff" stroke="#4c2b49" stroke-width="3"/>
+  <ellipse cx="1361" cy="275" rx="15" ry="19" fill="#2ec8ff"/><ellipse cx="1364" cy="273" rx="7" ry="10" fill="#11121e"/><circle cx="1369" cy="267" r="4" fill="#fff"/>
+  <path d="M1187 260C1219 242 1252 244 1282 262" fill="none" stroke="#15101a" stroke-width="11" stroke-linecap="round"/>
+  <path d="M1322 258C1349 243 1379 246 1401 264" fill="none" stroke="#15101a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1300 286C1292 318 1292 335 1308 344" fill="none" stroke="#b37c98" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1266 370C1294 353 1328 352 1352 370C1328 397 1291 398 1266 370Z" fill="#9d315f" stroke="#5c1f42" stroke-width="3"/>
+  <path d="M1277 370C1300 365 1322 365 1342 370" fill="none" stroke="#ffd7e7" stroke-width="3"/>
+  <path d="M1178 315l-26 18M1183 326l-25 24M1398 310l24 16M1397 324l23 23" stroke="#ff2dbd" stroke-width="4" stroke-linecap="round" opacity=".9"/>
+  <path d="M1205 466C1247 484 1304 486 1348 463" fill="none" stroke="#0a0a10" stroke-width="20"/>
+  <path d="M1269 476l22 0 0 24-22 0z" fill="none" stroke="#ff2dbd" stroke-width="4"/>
+  <path d="M1450 616C1420 558 1413 495 1438 457C1453 435 1476 443 1480 467L1488 519L1498 392C1501 363 1535 363 1537 392L1532 501L1558 401C1564 376 1597 384 1592 411L1571 515L1597 451C1605 431 1628 445 1620 466L1586 551C1572 586 1545 613 1518 628Z" fill="url(#skin)" stroke="#6f3f5f" stroke-width="5"/>
+  <path d="M1501 546l18-20 18 20-18 19zM1549 548l18-16 14 20-18 16z" fill="none" stroke="#2a2940" stroke-width="4"/>
+</g>
+<path d="M980 620C1044 514 1068 383 1068 262C1068 148 1052 66 1036 0" fill="none" stroke="#ff2dbd" stroke-width="6" filter="url(#glow)"/>
+<text x="72" y="70" fill="#d9d3f5" font-family="monospace" font-size="18" letter-spacing="2">PROFILE://ART-OFFLINE  •  LYON.FR  •  ELLE/SHE</text>
+<text x="68" y="176" fill="#2ec8ff" opacity=".8" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="900">EVIECRÈVE</text>
+<text x="76" y="170" fill="#ff2dbd" opacity=".8" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="900">EVIECRÈVE</text>
+<text x="72" y="173" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="77" font-weight="900">EVIECRÈVE</text>
+<text x="72" y="218" fill="#ff4ac3" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="900">FULL-STACK PRODUCT ENGINEER × SYSTEMS ARCHITECT</text>
+<text x="72" y="267" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20">Je transforme le chaos réel en produits, protocoles et interfaces.</text>
+<text x="72" y="299" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="20">Du backend .NET aux systèmes temps réel — net, brutal, exploitable.</text>
+<g font-family="monospace" font-size="15" font-weight="700" text-anchor="middle"><g fill="#080914" stroke-width="2"><rect x="72" y="333" width="132" height="42" rx="14" stroke="#ff2dbd"/><rect x="220" y="333" width="136" height="42" rx="14" stroke="#8b5cff"/><rect x="372" y="333" width="132" height="42" rx="14" stroke="#2ec8ff"/><rect x="520" y="333" width="142" height="42" rx="14" stroke="#b9ff4a"/></g><g fill="#fff"><text x="138" y="360">.NET / C#</text><text x="288" y="360">POSTGRES</text><text x="438" y="360">REALTIME</text><text x="591" y="360">UNITY / VR</text></g></g>
+<rect x="72" y="414" width="730" height="70" rx="16" fill="#080914" stroke="#8b5cff" stroke-width="2"/><circle cx="96" cy="449" r="8" fill="#ff2dbd" filter="url(#glow)"/><text x="120" y="443" fill="#9aa5c1" font-family="monospace" font-size="13">CURRENT FOCUS</text><text x="263" y="451" fill="#fff" font-family="monospace" font-size="16" font-weight="700">ETIKID / IoHTTPS / REALTIME SYSTEMS</text>
+<text x="72" y="535" fill="#bfb4df" font-family="monospace" font-size="13" letter-spacing="1">BUILD IT. BREAK IT. FIX THE REAL PROBLEM.</text>
+<g transform="translate(1500 75)" fill="none" stroke="#ff2dbd" stroke-width="5" filter="url(#glow)"><path d="M0-29 7-9 29-9 11 4 18 25 0 12-18 25-11 4-29-9-7-9Z"/></g>
+<rect x="1488" y="269" width="82" height="42" rx="14" fill="#080914" stroke="#ff2dbd" stroke-width="2"/><text x="1529" y="296" text-anchor="middle" fill="#fff" font-family="monospace" font-size="15" font-weight="700">2026</text>
+</svg>
