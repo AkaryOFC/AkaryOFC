@@ -1,11 +1,6 @@
 <!-- EVIECRÈVE / art-offline — graphic engineering profile -->
 <div align="center">
-<table width="100%">
-<tr>
-<td width="60%" valign="top"><img src="./assets/hero-left.svg" width="100%" alt="EVIECRÈVE portrait and profile hero" /></td>
-<td width="40%" valign="top"><img src="./assets/hero-right.svg" width="100%" alt="EVIECRÈVE engineering profile hero" /></td>
-</tr>
-</table>
+  <img src="https://raw.githubusercontent.com/art-offline/art-offline/main/assets/eviecreve-hero.svg?v=6" width="100%" alt="EVIECRÈVE — full-stack product engineer and systems architect" />
 </div>
 
 <br />
